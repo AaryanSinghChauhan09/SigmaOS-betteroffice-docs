@@ -3,7 +3,7 @@ name = "SigmaOS-betteroffice-docs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "betteroffice-docs component"
+description = "betteroffice docs component"
 upstream = []
 
 [contract]
